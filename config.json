@@ -1,0 +1,6 @@
+--- AWS Secrets ---
+access_key=AKIAJWVN5Z4FOFT7NLNB
+secret_key=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
+
+--- Web Server address ---
+"server_url = 'https://username:password@localhost:1234'",
