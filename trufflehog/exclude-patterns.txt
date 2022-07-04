@@ -1,3 +1,4 @@
 \.talismanrc
 trufflehog/
 pom.xml
+test
