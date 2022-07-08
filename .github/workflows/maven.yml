@@ -28,7 +28,6 @@ jobs:
           path: ./
           base: ${{ github.event.repository.default_branch }}
           head: HEAD
-          args: only-verified
 
     - name: Build with Maven
       run: 
